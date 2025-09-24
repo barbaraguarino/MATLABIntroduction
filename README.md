@@ -1,6 +1,6 @@
 #  MATLAB Introduction
 
-Este repositório contém meus estudos na disciplina de **Introdução ao MATLAB**. Este espaço foi criado para organizar, documentar e compartilhar o material de estudo e exercícios resolvidos ao longo do curso.
+Este repositório contém meus estudos na disciplina de **Introdução ao MATLAB**. Foi criado para organizar, documentar e estudar o material de estudo e exercícios resolvidos ao longo do curso.
 
 ## Sobre a Disciplina
 
