@@ -47,6 +47,9 @@ y = Memoria(:, 1);
 
 % Criando o gráfico
 
+% Vermelho = inicio
+% Azul = Saída
+
 figure;
 plot(x, y, 'k');
 hold;
