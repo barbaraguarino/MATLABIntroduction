@@ -18,6 +18,7 @@ while contador <= N
     Fatorial_while = Fatorial_while * contador;
     contador = contador + 1; % Incrementa o contador manualmente
 end
+
 fprintf('O fatorial (com WHILE) de %d é: %d\n', N, Fatorial_while);
 
 % 4. Forma vetorizada (Bônus)
