@@ -13,7 +13,7 @@ Implementar a regra do trapézio para calcular a integral definida de uma funç�
 4. Calcule e exiba o valor aproximado da integral para 10, 100 e 1000 subintervalos. 
 5. Compare os resultados e observe como a precisão da aproximação aumenta com o número de subintervalos.
 
-## Programa 02: A Caminhada do Bêbado
+## Programa 02: A Caminhada do Bêbado (Completo)s
 Simular um "passeio aleatório" (random walk) em duas dimensões para modelar o movimento de um bêbado em uma grade e determinar quantos passos ele leva para encontrar a saída.
 
 **Enunciado:** Crie uma simulação em MATLAB que modele a caminhada de um bêbado em uma grade quadrada de NxN. A simulação deve seguir as seguintes regras:
